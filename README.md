@@ -1,2 +1,2 @@
-# Surge
-Surge自用配置
+# Shadowrocket
+Shadowrocket自用配置
